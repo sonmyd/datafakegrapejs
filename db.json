@@ -11,4 +11,25 @@
   "profile": {
     "name": "typicode"
   }
+  "grapejs":{
+"id": 3,
+"content": {
+"projects": [
+{
+"id": 1,
+"data": {
+"assets": [],
+"styles": [],
+"pages": [
+{
+"component": "<div>Initial content</div>"
+}
+]
+}
+}
+]
+},
+"created_at": "2024-02-05T17:53:49.808Z",
+"updated_at": "2024-02-05T17:53:49.808Z"
+}
 }
