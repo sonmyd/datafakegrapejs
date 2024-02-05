@@ -1,35 +1,52 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "Santiago Bedoya"
+  },
+  "grapejs": {
+    "id": 3,
+    "content": {
+      "projects": [
+        {
+          "id": 1,
+          "data": {
+            "assets": [],
+            "styles": [],
+            "pages": [
+              {
+                "component": "<div>Initial content</div>"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "created_at": "2024-02-05T17:53:49.808Z",
+    "updated_at": "2024-02-05T17:53:49.808Z"
   }
-  "grapejs":{
-"id": 3,
-"content": {
-"projects": [
-{
-"id": 1,
-"data": {
-"assets": [],
-"styles": [],
-"pages": [
-{
-"component": "<div>Initial content</div>"
-}
-]
-}
-}
-]
-},
-"created_at": "2024-02-05T17:53:49.808Z",
-"updated_at": "2024-02-05T17:53:49.808Z"
-}
 }
